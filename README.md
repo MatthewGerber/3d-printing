@@ -1,3 +1,7 @@
+General information about my experience with 3D printing. A list of personal projects is 
+[here](https://matthewgerber.github.io/raspberry-py/cad-parts.html), and the model files are available 
+[here](https://www.printables.com/@MatthewGerbe_3143168/models).
+
 # CAD software
 
 I started out with [FreeCAD](https://www.freecadweb.org/). I was impressed by the range of capabilities 
