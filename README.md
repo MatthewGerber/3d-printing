@@ -107,7 +107,7 @@ for calibrating the extrusion rate (or e-steps) is as follows:
 In the end, the automatic bed leveling update did not work very well. Some prints did okay, but others had issues when 
 printing over the entire print bed. I ended up reverting back to the stock Ender 3 firmware as follows:
 
-1. Visit the Creality Cloud [firmware site](https://www.crealitycloud.com/downloads/firmware/ender-series/ender-3)
+1. Visit the Creality Cloud [firmware site](https://www.crealitycloud.com/downloads/firmware/ender-series/ender-3).
 2. Download `Ender-3Marlin2.0.6HW4.2.2 GD Version firmware`, as my Ender 3 has the 4.2.2 mainboard with the GD chip.
 3. After flashing the firmware, the default language is Chinese. The language menu is second from bottom in the main
    interface.
