@@ -141,3 +141,8 @@ the heat sink. Forums are littered with discussions of heat creep, with solution
 settings (extrusion speeds and distances), cooling fans, and extruder upgrades. In my case, upgrading [the hot-end fan](https://www.amazon.com/dp/B0B1V52WGP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) (\$13)
 and [converting the extruder to direct drive](https://www.amazon.com/UniTak3D-Upgrade-Conversion-Compatible-Extruder/dp/B09KG8MMQ2/ref=sr_1_1_sspa) (\$15)
 solved my problems.
+
+# Printing Terrain
+
+* [Terrain2STL](https://jthatch.com/Terrain2STL/)
+* [Prusa Blog tips](https://blog.prusa3d.com/how-to-print-maps-terrains-and-landscapes-on-a-3d-printer_29117/?utm_source=Prusa3D.com&utm_campaign=6367678606-AUTOMATION_Welcome_NEW_ENG_4&utm_medium=email&utm_term=0_4199f6d18b-6367678606-612972196) 
